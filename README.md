@@ -1,4 +1,0 @@
-KPJavaSDK
-=========
-
-Jinshan Kuaipan API
