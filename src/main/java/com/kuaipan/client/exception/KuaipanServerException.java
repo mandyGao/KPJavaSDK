@@ -51,8 +51,4 @@ public class KuaipanServerException extends KuaipanException {
 		return content.substring(idx_start, idx_end);
 	}
 	
-	
-	public static void main(String[] args) {
-		System.out.println(retrieveMsg("\"{\"msg\": \"hello\"}"));
-	}
 }
