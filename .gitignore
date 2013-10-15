@@ -1,7 +1,13 @@
-#idea
-*.iml
-
 #maven
 target
 target/*
 target/**/*
+nbproject
+nbproject/*
+nbproject/**/*
+build
+build/*
+build/**/*
+build.xml
+manifest.mf
+nbactions.xml
